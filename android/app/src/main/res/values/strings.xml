@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">2147101295667840</string>
+    <string name="app_name">GoTask</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">755a76402747ae6a0944526ac3cf8a05</string>
+
+
+
+</resources>
